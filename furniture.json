@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943313279.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943936868.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943947908.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943959846.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943966346.webp"
+  },
+  {
+    "id": 6,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943987226.webp"
+  },
+  {
+    "id": 7,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737943996090.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944003319.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944010192.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944037746.webp"
+  },
+  {
+    "id": 11,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944045055.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944046359.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944047425.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944050308.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944051807.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944053958.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944054718.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944055486.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944056152.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "منتج",
+    "price": "25000",
+    "image": "/uploads/1737944056834.jpeg"
+  }
+]
